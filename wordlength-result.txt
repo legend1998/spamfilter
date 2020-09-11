@@ -1,0 +1,11 @@
+1  Guy Says He's t..  story  -9.6171 -13.244600000000002 -11.613599999999998 -12.3981 story  right
+2  ‘Flyover Tech’ ..  show_hn  -7.143800000000001 -8.1842 -6.3027999999999995 -6.404299999999999 poll  wrong
+3  Show_HN: London..  show_hn  -7.399099999999999 -7.2299999999999995 -6.0809 -7.136699999999999 show_hn  right
+4  Sequoia launche..  show_hn  -3.0174 -3.1237999999999997 -2.6789 -3.2731 poll  wrong
+5  Show HN: Unmind..  ask_hn  -7.399099999999999 -6.531 -6.6928 -7.6137999999999995 show_hn  wrong
+6  Show HN: Tesla ..  show_hn  -14.5429 -14.598700000000001 -13.798699999999998 -15.395 show_hn  right
+7  Solar Industry'..  poll  -3.0174 -2.6467 -3.1561 -1.9944000000000002 poll  right
+8  Ask_HN: What re..  ask_hn  -11.3793 -11.1143 -12.789699999999998 -13.3523 ask_hn  right
+9  Coming Soon to ..  story  -5.7125 -8.1842 -6.558199999999999 -7.3585 story  right
+10  New genetic gen..  story  -12.634500000000001 -14.3768 -13.663999999999998 -14.4408 story  right
+11  Project Dustbun..  story  -8.2528 -10.714400000000001 -8.608699999999999 -9.8783 story  right
